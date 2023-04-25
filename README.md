@@ -1,4 +1,3 @@
-/**
 the whole course is about javascript
 ```
     https://www.youtube.com/watch?v=-xL3LXBiGfw&list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE&index=2
